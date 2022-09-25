@@ -4,6 +4,11 @@ This project is simply a boilerplate for selenium testing. I will try to write a
 can be run on any OS with both chrome and firefox. All you then need is to simply wirte the
 test cases.
 
+## Notice
+
+For this to work on a Windows system please download appropriate chromdirver.exe and place it in
+the src/main/resources/drivers/ folder. Make sure it is called chromedriver.exe.
+
 ## Current state
 
 Currently you can write tests using only the chromedriver. I still havent added the functionallity
